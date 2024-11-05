@@ -3,13 +3,13 @@
 ?>
 <!DOCTYPE html>
 <html lang='ru'>
-<title>MC TIXON DJ DUBOK MMR ILUHA (Потенциальные 10к ммр)</title>
+<title>MC TIXON DJ DUBOK MMR ILUHA (Gfvgfv)</title>
 <head>
 <body>
     <div class='outer'>
             <div class='inner'>
-                <h1 id='t1'>Братки NEWS:</h1>  
-				<h5> MC TIXON DJ DUBOK MMR ILUHA (Потенциальные 10к ммр)</h5>	
+                <h1 id='t1'> NEWS:</h1>  
+				<h5> MC TIXON DJ DUBOK MMR ILUHA (Gfvgfv)</h5>	
                 &nbsp;
                 <?php
                     gen_table();
